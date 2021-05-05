@@ -1,1 +1,1 @@
-# ssb-assignment2
+# assignment2
